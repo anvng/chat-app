@@ -1,2 +1,2 @@
-Java Servlet, JSP, JSTL and Hibernate framework
-Mysql
+- Java Servlet, JSP, JSTL and Hibernate framework
+- Mysql
