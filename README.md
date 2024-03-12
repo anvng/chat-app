@@ -1,2 +1,2 @@
-- Java Servlet, JSP, 
+- Java Servlet and JSP
 - Mysql
