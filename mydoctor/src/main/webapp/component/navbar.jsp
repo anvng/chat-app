@@ -7,23 +7,23 @@
 --%>
 <nav class="navbar navbar-expand-lg navbar-dark bg-success">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">MyDoctor</a>
+        <a class="navbar-brand" href="#"><i class="fa-solid fa-house-medical-circle-check"></i> MyDoctor</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Admin</a>
+                    <a class="nav-link active" aria-current="page" href="#"><i class="fa-solid fa-right-to-bracket"></i> Admin</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Doctor</a>
+                    <a class="nav-link active" aria-current="page" href="#"><i class="fa-solid fa-user-doctor"></i> Doctor</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Appointment</a>
+                    <a class="nav-link active" aria-current="page" href="#"><i class="fa-regular fa-calendar-check"></i> Appointment</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">User</a>
+                    <a class="nav-link active" aria-current="page" href="#"><i class="fa-solid fa-users"></i> User</a>
                 </li>
 <%--                <li class="nav-item dropdown">--%>
 <%--                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">--%>
@@ -36,7 +36,6 @@
 <%--                        <li><a class="dropdown-item" href="#">Something else here</a></li>--%>
 <%--                    </ul>--%>
 <%--                </li>--%>
-
         </div>
     </div>
 </nav>
