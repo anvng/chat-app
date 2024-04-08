@@ -13,6 +13,6 @@
 
 </head>
 <body>
-
+    <%@include file="component/navbar.jsp"%>
 </body>
 </html>
