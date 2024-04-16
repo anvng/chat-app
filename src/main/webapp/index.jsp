@@ -73,7 +73,7 @@
                 <p>
                     Thank you for your interest in our services, wish you good health and happiness.
                 </p>
-                <a href="#" class="btn btn-primary">View Profile</a>
+                <a href="#" class="btn btn-primary">Find out more</a>
             </div>
         </div>
 
@@ -87,7 +87,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Dr. John Doe</h5>
                         <p class="card-text">Specialty: Cardiology</p>
-                        <a href="#" class="btn btn-primary">Find out more</a>
+                        <a href="#" class="btn btn-primary">View Profile</a>
                     </div>
                 </div>
             </div>
