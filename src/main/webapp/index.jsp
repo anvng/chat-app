@@ -56,7 +56,64 @@
         </button>
     </div>
 
-<%--    content--%>f
+
+    <%-- Content Section --%>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="images/slide1.jpg" class="img-fluid" alt="Image">
+            </div>
+            <div class="col-md-6">
+                <h2>Welcome to MyDoctor</h2>
+                <p>
+                    Our MyDoctor is one of the leading medical care services. With a
+                    team dedicated to the profession and rich in experience.
+                    Bring satisfaction to customers
+                </p>
+                <p>
+                    Thank you for your interest in our services, wish you good health and happiness.
+                </p>
+                <a href="#" class="btn btn-primary">View Profile</a>
+            </div>
+        </div>
+
+        <hr>
+
+        <h2>Meet Our Medical Team</h2>
+        <div class="row mt-4">
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="images/img/doctor01.png" class="card-img-top" alt="Doctor 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Dr. John Doe</h5>
+                        <p class="card-text">Specialty: Cardiology</p>
+                        <a href="#" class="btn btn-primary">Find out more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="images/img/doctor02.png" class="card-img-top" alt="Doctor 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Dr. Jane Smith</h5>
+                        <p class="card-text">Specialty: Pediatrics</p>
+                        <a href="#" class="btn btn-primary">View Profile</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="images/img/doctor03.png" class="card-img-top" alt="Doctor 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Dr. Michael Johnson</h5>
+                        <p class="card-text">Specialty: Dermatology</p>
+                        <a href="#" class="btn btn-primary">View Profile</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
 
     <!-- Footer -->
