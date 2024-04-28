@@ -39,7 +39,7 @@
                             <label class="form-label"> Password</label>
                             <input required name="password" type="password" class="form-control">
                         </div>
-
+<%--                        roles--%>
                         <div class="mb-3">
                             <label class="form-label">Role</label>
                             <select name="role" class="form-control">

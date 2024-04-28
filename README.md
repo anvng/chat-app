@@ -12,3 +12,6 @@
 - Doctor
 - User
 - Admin
+-------
+### Ref:
+[MySQL Connector Java](https://mvnrepository.com/artifact/mysql/mysql-connector-java)
