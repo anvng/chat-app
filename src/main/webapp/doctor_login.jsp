@@ -14,6 +14,7 @@
 <body>
     <%@include file="component/navbar.jsp"%>
 
+<%--    login--%>
     <div class="container p-5">
         <div class="row">
             <div class="col-md-4 offset-md-4">
@@ -38,7 +39,7 @@
 
                             </button>
                         </form>
-
+                        <br>You don't have an account <a href="signup.jsp" class="text-decoration-none">Create now</a>
                     </div>
                 </div>
 
