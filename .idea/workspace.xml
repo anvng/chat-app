@@ -10,11 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85749239-da61-4824-93f4-1937aaa2324c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/signup.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/admin_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/admin_login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/doctor_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/doctor_login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/user_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/user_login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/admin_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/admin_login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/doctor_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/doctor_login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +188,9 @@
       <workItem from="1714041349428" duration="352000" />
       <workItem from="1714041832076" duration="68000" />
       <workItem from="1714058194756" duration="695000" />
-      <workItem from="1714155662344" duration="2121000" />
+      <workItem from="1714155662344" duration="2326000" />
+      <workItem from="1714235289705" duration="658000" />
+      <workItem from="1714268424910" duration="5051000" />
     </task>
     <servers />
   </component>
