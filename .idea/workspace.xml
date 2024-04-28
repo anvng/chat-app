@@ -10,12 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85749239-da61-4824-93f4-1937aaa2324c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/db/DBConnect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mydoctor/mydoctor/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +182,7 @@
       <workItem from="1714058194756" duration="695000" />
       <workItem from="1714155662344" duration="2326000" />
       <workItem from="1714235289705" duration="658000" />
-      <workItem from="1714268424910" duration="8683000" />
+      <workItem from="1714268424910" duration="8935000" />
     </task>
     <servers />
   </component>

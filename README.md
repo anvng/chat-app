@@ -14,4 +14,6 @@
 - Admin
 -------
 ### Ref:
-[MySQL Connector Java](https://mvnrepository.com/artifact/mysql/mysql-connector-java)
+[MySQL Connector/J](https://mvnrepository.com/artifact/com.mysql/mysql-connector-j/8.3.0)
+[Servlet API](https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api/4.0.1)
+
