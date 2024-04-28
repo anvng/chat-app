@@ -1,4 +1,5 @@
-<%--
+<%@ page import="java.sql.Connection" %>
+<%@ page import="com.db.DBConnect" %><%--
   Created by IntelliJ IDEA.
   User: anvndev
   Date: 7/4/24
@@ -20,6 +21,9 @@
 </head>
 <body>
     <%@include file="component/navbar.jsp"%>
+    <% Connection conn = DBConnect.getConn();
+//    out.print(conn);
+    %>
 
 <%--slide--%>
     <div id="carouselExampleDark" class="carousel carousel-light slide" data-bs-ride="carousel">

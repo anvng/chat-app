@@ -39,7 +39,7 @@
 
                             </button>
                         </form>
-                        <br>You don't have an account <a href="signup.jsp" class="text-decoration-none">Create now</a>
+                        <br>You don't have an account <a href="register.jsp" class="text-decoration-none">Create now</a>
                     </div>
                 </div>
 
