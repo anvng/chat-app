@@ -10,26 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85749239-da61-4824-93f4-1937aaa2324c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/user/servlet/UserRegister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/db/DBConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/db/DBConnect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/doctor_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/doctor_login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/signup.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/user_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/user_login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/db/DBConnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/db/DBConnect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/WEB-INF/classes/com/db/DBConnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/WEB-INF/classes/com/db/DBConnect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/doctor_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/doctor_login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/signup.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/user_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/user_login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +187,7 @@
       <workItem from="1714268424910" duration="9588000" />
       <workItem from="1714315847021" duration="1359000" />
       <workItem from="1714317214307" duration="293000" />
-      <workItem from="1714317513691" duration="8394000" />
+      <workItem from="1714317513691" duration="8869000" />
     </task>
     <servers />
   </component>
