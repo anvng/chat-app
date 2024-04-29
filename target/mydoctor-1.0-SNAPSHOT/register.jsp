@@ -6,6 +6,8 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
 <html>
 <head>
     <title>Signup</title>
@@ -21,6 +23,15 @@
             <div class="card paint-card">
                 <div class="card-body">
                     <p class="fs-4 text-center">Register</p>
+                    <c:if test="${not empty sucMsg}">
+                    <p class="text-center text-success fs-3 ">${sucMsg}</p>
+                        <c:remove var="sucMsg" scope="session"/>
+                    </c:if>
+                    <c:if test="${not empty errorMsg}">
+                        <p class="text-center text-danger fs-3 ">${errorMsg}</p>
+                        <c:remove var="errorMsg" scope="session"/>
+                    </c:if>
+
                     <%--                        form--%>
                     <form action="#" method="post">
                         <div class="mb-3">

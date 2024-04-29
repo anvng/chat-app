@@ -10,7 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85749239-da61-4824-93f4-1937aaa2324c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_29_tidb_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/user/servlet/UserRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/user/servlet/UserRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/user/servlet/UserRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/user/servlet/UserRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/UserRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/WEB-INF/classes/com/user/servlet/UserRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mydoctor-1.0-SNAPSHOT/register.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +37,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jstl-1.2.jar!/javax/servlet/jsp/jstl/core/Config.class" root0="SKIP_INSPECTION" />
   </component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -59,6 +72,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JAR Application.jstl-1.2.jar.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -75,11 +89,20 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.202">
+    <configuration name="jstl-1.2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat 10.1.202" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.202" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -167,6 +190,11 @@
         </option>
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.jstl-1.2.jar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -187,7 +215,9 @@
       <workItem from="1714268424910" duration="9588000" />
       <workItem from="1714315847021" duration="1359000" />
       <workItem from="1714317214307" duration="293000" />
-      <workItem from="1714317513691" duration="8869000" />
+      <workItem from="1714317513691" duration="9083000" />
+      <workItem from="1714356866778" duration="6127000" />
+      <workItem from="1714380135099" duration="2148000" />
     </task>
     <servers />
   </component>
